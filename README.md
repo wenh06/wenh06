@@ -10,6 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenh06&layout=compact)
 
+![wenh06's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=wenh06&limit=12&combine_all_yearly_contributions=true)
+
 <!--
 **wenh06/wenh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
